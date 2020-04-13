@@ -24,3 +24,10 @@ F:\BOOTCAMP\DOT NET\Pertemuan 3 (05 Maret 2020)\Exercise3\Exercise3Solution\Exer
 F:\BOOTCAMP\DOT NET\Pertemuan 3 (05 Maret 2020)\Exercise3\Exercise3Solution\Exercise3\obj\Debug\Exercise3.csproj.CoreCompileInputs.cache
 F:\BOOTCAMP\DOT NET\Pertemuan 3 (05 Maret 2020)\Exercise3\Exercise3Solution\Exercise3\obj\Debug\Exercise3.exe
 F:\BOOTCAMP\DOT NET\Pertemuan 3 (05 Maret 2020)\Exercise3\Exercise3Solution\Exercise3\obj\Debug\Exercise3.pdb
+F:\BOOTCAMP\DOT NET\Pertemuan 3 (05 Maret 2020)\Exercise 3\Exercise3Solution\Exercise3\bin\Debug\Exercise3.exe.config
+F:\BOOTCAMP\DOT NET\Pertemuan 3 (05 Maret 2020)\Exercise 3\Exercise3Solution\Exercise3\bin\Debug\Exercise3.exe
+F:\BOOTCAMP\DOT NET\Pertemuan 3 (05 Maret 2020)\Exercise 3\Exercise3Solution\Exercise3\bin\Debug\Exercise3.pdb
+F:\BOOTCAMP\DOT NET\Pertemuan 3 (05 Maret 2020)\Exercise 3\Exercise3Solution\Exercise3\obj\Debug\Exercise3.csprojAssemblyReference.cache
+F:\BOOTCAMP\DOT NET\Pertemuan 3 (05 Maret 2020)\Exercise 3\Exercise3Solution\Exercise3\obj\Debug\Exercise3.csproj.CoreCompileInputs.cache
+F:\BOOTCAMP\DOT NET\Pertemuan 3 (05 Maret 2020)\Exercise 3\Exercise3Solution\Exercise3\obj\Debug\Exercise3.exe
+F:\BOOTCAMP\DOT NET\Pertemuan 3 (05 Maret 2020)\Exercise 3\Exercise3Solution\Exercise3\obj\Debug\Exercise3.pdb

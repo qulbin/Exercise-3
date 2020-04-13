@@ -139,7 +139,7 @@ namespace Exercise3
                         Console.WriteLine("\n========= History =========");
                         foreach (string item in ListHasil)
                         {
-                            Console.WriteLine("{0}", item);
+                            Console.WriteLine(item);
                         }
                     }
                     else
